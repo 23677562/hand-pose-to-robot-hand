@@ -1,0 +1,7 @@
+gesture_recognition:
+  ros__parameters:
+    log_enabled: False
+
+hand_pose_estimation:
+  ros__parameters:  
+    log_enabled: False

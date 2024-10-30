@@ -1,0 +1,76 @@
+{
+    "joints": [
+        {
+            "joint_name": "index_joint_1",
+            "landmarks": ["WRIST", "INDEX_FINGER_MCP", "INDEX_FINGER_PIP"],
+            "min_angle": -0.3795,
+            "max_angle": 1.7278
+        },
+        {
+            "joint_name": "middle_joint_1",
+            "landmarks": ["WRIST", "MIDDLE_FINGER_MCP", "MIDDLE_FINGER_PIP"],
+            "min_angle": -0.3789,
+            "max_angle": 1.7278
+        },
+        {
+            "joint_name": "ring_joint_1",
+            "landmarks": ["WRIST", "RING_FINGER_MCP", "RING_FINGER_PIP"],
+            "min_angle": -0.3788,
+            "max_angle": 1.7278
+        },
+        {
+            "joint_name": "thumb_joint_1",
+            "landmarks": ["WRIST", "THUMB_CMC", "THUMB_MCP"],
+            "min_angle": 0.1793,
+            "max_angle": 1.5707
+        },
+        {
+            "joint_name": "index_joint_2",
+            "landmarks": ["INDEX_FINGER_MCP", "INDEX_FINGER_PIP", "INDEX_FINGER_DIP"],
+            "min_angle": -0.3795,
+            "max_angle": 1.7278
+        },
+        {
+            "joint_name": "middle_joint_2",
+            "landmarks": ["MIDDLE_FINGER_MCP", "MIDDLE_FINGER_PIP", "MIDDLE_FINGER_DIP"],
+            "min_angle": -0.3789,
+            "max_angle": 1.7278
+        },
+        {
+            "joint_name": "ring_joint_2",
+            "landmarks": ["RING_FINGER_MCP", "RING_FINGER_PIP", "RING_FINGER_DIP"],
+            "min_angle": -0.3788,
+            "max_angle": 1.7278
+        },
+        {
+            "joint_name": "thumb_joint_2",
+            "landmarks": ["THUMB_CMC", "THUMB_MCP", "THUMB_IP"],
+            "min_angle": -0.3792,
+            "max_angle": 1.1519
+        },
+        {
+            "joint_name": "index_joint_3",
+            "landmarks": ["INDEX_FINGER_PIP", "INDEX_FINGER_DIP", "INDEX_FINGER_TIP"],
+            "min_angle": -0.3792,
+            "max_angle": 1.7278
+        },
+        {
+            "joint_name": "middle_joint_3",
+            "landmarks": ["MIDDLE_FINGER_PIP", "MIDDLE_FINGER_DIP", "MIDDLE_FINGER_TIP"],
+            "min_angle": -0.3792,
+            "max_angle": 1.7278
+        },
+        {
+            "joint_name": "ring_joint_3",
+            "landmarks": ["RING_FINGER_PIP", "RING_FINGER_DIP", "RING_FINGER_TIP"],
+            "min_angle": -0.3792,
+            "max_angle": 1.7278
+        },
+        {
+            "joint_name": "thumb_joint_3",
+            "landmarks": ["THUMB_MCP", "THUMB_IP", "THUMB_TIP"],
+            "min_angle": -0.3792,
+            "max_angle": 1.1519
+        }
+    ]
+}

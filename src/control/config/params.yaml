@@ -1,0 +1,7 @@
+hand_pose_to_joint_state:
+  ros__parameters:
+    robot_config_path: "src/control/config/allegro_hand.json"
+
+hand_pose_to_allegro_hand:
+  ros__parameters:
+   robot_config_path: "src/control/config/allegro_hand.json"

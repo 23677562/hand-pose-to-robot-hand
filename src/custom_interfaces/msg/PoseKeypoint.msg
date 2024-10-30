@@ -1,0 +1,3 @@
+geometry_msgs/Point keypoint
+float32 visibility
+string landmark_name
