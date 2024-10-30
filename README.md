@@ -51,7 +51,7 @@ publisher:
 
 You can update these YAML files before running the nodes, depending on your hardware and processing needs.
 
-#### Launch Files & Running the Project
+### Launch Files & Running the Project
 Launch files are located in the `launch/` directory of each package. They allow you to launch multiple nodes with predefined configurations.
 
 1. **Launch the Camera Feed:**
